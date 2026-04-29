@@ -1,3 +1,4 @@
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,25 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# meterflowfrontend
+MeterFlow is a modern API usage monitoring and billing dashboard built with React. It provides a clean and intuitive interface to track API requests, visualize traffic, and manage billing in a SaaS-style environment.
+
+🚀 Features
+📊 Dashboard Overview
+Total API requests
+Successful vs Failed requests
+Real-time analytics
+📈 Traffic Visualization
+Line charts for request trends
+Pie charts for success/failure ratio
+📄 API Logs Table
+View endpoint activity
+Status tracking (200 / 401 / errors)
+💳 Billing Integration Ready
+Designed for payment gateway integration (Razorpay)
+Usage-based billing system
+🎨 Modern UI
+Built with Tailwind CSS
+Responsive and clean dashboard layout
+
